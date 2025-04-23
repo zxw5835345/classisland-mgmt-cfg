@@ -1,16 +1,4 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "AGGZ",
-    "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/zxw5835345/classisland-mgmt-cfg/master/classplans.json",
-        "Version": 1
-    },
-    "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/zxw5835345/classisland-mgmt-cfg/master/timelayouts.json",
-        "Version": 1
-    },
-    "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/zxw5835345/classisland-mgmt-cfg/master/subjects.json",
-        "Version": 1
-    }
+    "OrganizationName": "AGGZ"
 }
