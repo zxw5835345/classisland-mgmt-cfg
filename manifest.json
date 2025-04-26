@@ -3,6 +3,6 @@
     "OrganizationName": "AGGZ",
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/zxw5835345/classisland-mgmt-cfg/master/timelayouts.json",
-        "Version": 1
+        "Version": 2
     }
 }
