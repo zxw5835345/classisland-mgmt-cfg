@@ -1,1505 +1,4 @@
-{
-  "Name": "",
-  "TimeLayouts": {
-    "1ac850de-d9dc-473c-b594-33b2d279ad97": {
-      "Name": "周六",
-      "Layouts": [
-        {
-          "StartSecond": "2025-03-19T08:00:00",
-          "EndSecond": "2025-03-19T09:00:00",
-          "TimeType": 0,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 180,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": true,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 2,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 3600,
-              "ExtraInfo4ShowSecondsSeconds": 3600,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T09:00:00",
-          "EndSecond": "2025-03-19T09:10:00",
-          "TimeType": 1,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 60,
-              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": true,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 2,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 600,
-              "ExtraInfo4ShowSecondsSeconds": 600,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T09:10:00",
-          "EndSecond": "2025-03-19T10:10:00",
-          "TimeType": 0,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 180,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": true,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 2,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 3600,
-              "ExtraInfo4ShowSecondsSeconds": 3600,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T10:10:00",
-          "EndSecond": "2025-03-19T10:20:00",
-          "TimeType": 1,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 60,
-              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": true,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 2,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 600,
-              "ExtraInfo4ShowSecondsSeconds": 600,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T10:20:00",
-          "EndSecond": "2025-03-19T11:20:00",
-          "TimeType": 0,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 180,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": true,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 2,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 3600,
-              "ExtraInfo4ShowSecondsSeconds": 3600,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T11:20:00+08:00",
-          "EndSecond": "2025-03-19T11:20:00+08:00",
-          "TimeType": 2,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": true,
-              "ClassPreparingDeltaTime": 60,
-              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T13:00:00",
-          "EndSecond": "2025-03-19T14:00:00",
-          "TimeType": 0,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 180,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": true,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 2,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 3600,
-              "ExtraInfo4ShowSecondsSeconds": 3600,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T14:00:00",
-          "EndSecond": "2025-03-19T14:10:00",
-          "TimeType": 1,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 60,
-              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": true,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 2,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 600,
-              "ExtraInfo4ShowSecondsSeconds": 600,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T14:10:00",
-          "EndSecond": "2025-03-19T15:10:00",
-          "TimeType": 0,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 180,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": true,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 2,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 3600,
-              "ExtraInfo4ShowSecondsSeconds": 3600,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T15:10:00",
-          "EndSecond": "2025-03-19T15:20:00",
-          "TimeType": 1,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 60,
-              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": true,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 2,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 600,
-              "ExtraInfo4ShowSecondsSeconds": 600,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T15:20:00",
-          "EndSecond": "2025-03-19T16:17:00",
-          "TimeType": 0,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 180,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": true,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 2,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 3600,
-              "ExtraInfo4ShowSecondsSeconds": 3600,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        }
-      ],
-      "AttachedObjects": {
-        "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
-          "IsEnabled": true,
-          "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
-          "IsAttachSettingsEnabled": false,
-          "IsActive": false
-        },
-        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-          "IsClassOnNotificationEnabled": true,
-          "IsClassOnPreparingNotificationEnabled": true,
-          "IsClassOffNotificationEnabled": true,
-          "ClassPreparingDeltaTime": 60,
-          "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-          "ClassOnPreparingMaskText": "即将上课",
-          "ClassOnMaskText": "上课",
-          "ClassOffMaskText": "课间休息",
-          "ClassOffOverlayText": "",
-          "IsAttachSettingsEnabled": false,
-          "IsActive": false
-        },
-        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-          "IsAttachSettingsEnabled": false,
-          "ShowExtraInfoOnTimePoint": true,
-          "ExtraInfoType": 0,
-          "IsCountdownEnabled": true,
-          "CountdownSeconds": 60,
-          "ExtraInfo4ShowSecondsSeconds": 0,
-          "ScheduleSpacing": 1,
-          "ShowCurrentLessonOnlyOnClass": false,
-          "IsNonExactCountdownEnabled": false,
-          "IsActive": false
-        }
-      },
-      "IsActive": false
-    },
-    "beab55cf-5afb-4de7-a2b4-856f76cd4e3a": {
-      "Name": "工作日",
-      "Layouts": [
-        {
-          "StartSecond": "2025-03-19T07:40:00",
-          "EndSecond": "2025-03-19T08:20:00",
-          "TimeType": 0,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 180,
-              "ClassOnPreparingText": " ",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 2,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T08:20:00",
-          "EndSecond": "2025-03-19T08:30:00",
-          "TimeType": 1,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 60,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T08:30:00",
-          "EndSecond": "2025-03-19T09:10:00",
-          "TimeType": 0,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 180,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T09:10:00",
-          "EndSecond": "2025-03-19T09:20:00",
-          "TimeType": 1,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 60,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T09:20:00",
-          "EndSecond": "2025-03-19T09:59:00",
-          "TimeType": 0,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 180,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T10:30:00",
-          "EndSecond": "2025-03-19T11:10:00",
-          "TimeType": 0,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 180,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T11:10:00",
-          "EndSecond": "2025-03-19T11:20:00",
-          "TimeType": 1,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 60,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T11:20:00",
-          "EndSecond": "2025-03-19T12:00:00",
-          "TimeType": 0,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 180,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T12:30:00",
-          "EndSecond": "2025-03-19T12:30:00",
-          "TimeType": 2,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": true,
-              "ClassPreparingDeltaTime": 60,
-              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T13:30:00",
-          "EndSecond": "2025-03-19T14:10:00",
-          "TimeType": 0,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 180,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T14:10:00",
-          "EndSecond": "2025-03-19T14:20:00",
-          "TimeType": 1,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 60,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T14:20:00",
-          "EndSecond": "2025-03-19T15:00:00",
-          "TimeType": 0,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 180,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T15:00:00",
-          "EndSecond": "2025-03-19T15:10:00",
-          "TimeType": 1,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": true,
-              "ClassPreparingDeltaTime": 60,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T15:10:00",
-          "EndSecond": "2025-03-19T15:50:00",
-          "TimeType": 0,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 180,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T16:20:00",
-          "EndSecond": "2025-03-19T17:00:00",
-          "TimeType": 0,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 180,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T17:00:00",
-          "EndSecond": "2025-03-19T17:10:00",
-          "TimeType": 1,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 60,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T17:10:00",
-          "EndSecond": "2025-03-19T17:50:00",
-          "TimeType": 0,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 180,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T17:50:00",
-          "EndSecond": "2025-03-19T18:00:00",
-          "TimeType": 1,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": true,
-              "ClassPreparingDeltaTime": 60,
-              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T18:00:00",
-          "EndSecond": "2025-03-19T18:40:00",
-          "TimeType": 0,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 180,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T19:20:00",
-          "EndSecond": "2025-03-19T20:20:00",
-          "TimeType": 0,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 300,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T20:20:00",
-          "EndSecond": "2025-03-19T20:30:00",
-          "TimeType": 1,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 180,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        },
-        {
-          "StartSecond": "2025-03-19T20:30:00",
-          "EndSecond": "2025-03-19T21:27:00",
-          "TimeType": 0,
-          "IsHideDefault": false,
-          "DefaultClassId": "",
-          "BreakName": "",
-          "ActionSet": null,
-          "AttachedObjects": {
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-              "IsClassOnNotificationEnabled": true,
-              "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
-              "ClassPreparingDeltaTime": 180,
-              "ClassOnPreparingText": "",
-              "ClassOnPreparingMaskText": "即将上课",
-              "ClassOnMaskText": "上课",
-              "ClassOffMaskText": "课间休息",
-              "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-              "IsAttachSettingsEnabled": false,
-              "ShowExtraInfoOnTimePoint": true,
-              "ExtraInfoType": 0,
-              "IsCountdownEnabled": true,
-              "CountdownSeconds": 60,
-              "ExtraInfo4ShowSecondsSeconds": 0,
-              "ScheduleSpacing": 1,
-              "ShowCurrentLessonOnlyOnClass": false,
-              "IsNonExactCountdownEnabled": false,
-              "IsActive": false
-            },
-            "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
-              "IsAttachSettingsEnabled": true,
-              "IsActive": false
-            }
-          },
-          "IsActive": false
-        }
-      ],
-      "AttachedObjects": {
-        "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
-          "IsEnabled": true,
-          "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
-          "IsAttachSettingsEnabled": false,
-          "IsActive": false
-        },
-        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-          "IsClassOnNotificationEnabled": true,
-          "IsClassOnPreparingNotificationEnabled": true,
-          "IsClassOffNotificationEnabled": true,
-          "ClassPreparingDeltaTime": 60,
-          "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-          "ClassOnPreparingMaskText": "即将上课",
-          "ClassOnMaskText": "上课",
-          "ClassOffMaskText": "课间休息",
-          "ClassOffOverlayText": "",
-          "IsAttachSettingsEnabled": false,
-          "IsActive": false
-        },
-        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-          "IsAttachSettingsEnabled": false,
-          "ShowExtraInfoOnTimePoint": true,
-          "ExtraInfoType": 0,
-          "IsCountdownEnabled": true,
-          "CountdownSeconds": 60,
-          "ExtraInfo4ShowSecondsSeconds": 0,
-          "ScheduleSpacing": 1,
-          "ShowCurrentLessonOnlyOnClass": false,
-          "IsNonExactCountdownEnabled": false,
-          "IsActive": false
-        }
-      },
-      "IsActive": false
-    }
-  },
-  "ClassPlans": {
+"ClassPlans":{
     "132435c5-7429-41db-b807-f2800f991a7b": {
       "TimeLayoutId": "1ac850de-d9dc-473c-b594-33b2d279ad97",
       "TimeRule": {
@@ -2628,161 +1127,6 @@
       },
       "IsActive": false
     },
-    "27dec410-2e15-4de2-a9bd-d57713d828b8": {
-      "TimeLayoutId": "beab55cf-5afb-4de7-a2b4-856f76cd4e3a",
-      "TimeRule": {
-        "WeekDay": 5,
-        "WeekCountDiv": 0,
-        "WeekCountDivTotal": 2,
-        "IsActive": false
-      },
-      "Classes": [
-        {
-          "SubjectId": "903f2aee-a2c8-4161-a878-dd6ec21e61c8",
-          "IsChangedClass": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "0aa4652c-4fec-4e82-9ca1-47a15a337842",
-          "IsChangedClass": false,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "9a3fde0d-4421-4379-989c-af1529005e0f",
-          "IsChangedClass": false,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "9a3fde0d-4421-4379-989c-af1529005e0f",
-          "IsChangedClass": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "e314d4f9-f2ab-40c6-a077-640cf7202993",
-          "IsChangedClass": false,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "e9a3e843-f777-4f70-ac26-78ddce4a4ec8",
-          "IsChangedClass": false,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "0aa4652c-4fec-4e82-9ca1-47a15a337842",
-          "IsChangedClass": false,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "f3ebca85-e6fa-464b-8c35-07f75a5f4653",
-          "IsChangedClass": false,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "e314d4f9-f2ab-40c6-a077-640cf7202993",
-          "IsChangedClass": false,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "d10805b2-c8cb-4fda-9912-7dac226234c2",
-          "IsChangedClass": false,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "d10805b2-c8cb-4fda-9912-7dac226234c2",
-          "IsChangedClass": false,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "112aaa7b-ab3c-4fc8-8924-7fc89c64c886",
-          "IsChangedClass": false,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "c1ef3e4d-08fb-45be-9082-8ffa84aae366",
-          "IsChangedClass": false,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        }
-      ],
-      "Name": "周五（临时层）",
-      "IsOverlay": true,
-      "OverlaySourceId": "010ecd4c-0607-43e4-8e27-64bbe874ffca",
-      "OverlaySetupTime": "2025-04-18T00:00:00+08:00",
-      "IsEnabled": true,
-      "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
-      "AttachedObjects": {
-        "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
-          "IsEnabled": true,
-          "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
-          "IsAttachSettingsEnabled": false,
-          "IsActive": false
-        },
-        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-          "IsClassOnNotificationEnabled": false,
-          "IsClassOnPreparingNotificationEnabled": false,
-          "IsClassOffNotificationEnabled": false,
-          "ClassPreparingDeltaTime": 60,
-          "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-          "ClassOnPreparingMaskText": "即将上课",
-          "ClassOnMaskText": "上课",
-          "ClassOffMaskText": "课间休息",
-          "ClassOffOverlayText": "",
-          "IsAttachSettingsEnabled": true,
-          "IsActive": false
-        },
-        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-          "IsAttachSettingsEnabled": true,
-          "ShowExtraInfoOnTimePoint": true,
-          "ExtraInfoType": 2,
-          "IsCountdownEnabled": true,
-          "CountdownSeconds": 3600,
-          "ExtraInfo4ShowSecondsSeconds": 3600,
-          "ScheduleSpacing": 1,
-          "ShowCurrentLessonOnlyOnClass": false,
-          "IsNonExactCountdownEnabled": false,
-          "IsActive": false
-        }
-      },
-      "IsActive": false
-    },
     "29e102a9-64c4-42f0-8d3b-d1e3705eea2e": {
       "TimeLayoutId": "beab55cf-5afb-4de7-a2b4-856f76cd4e3a",
       "TimeRule": {
@@ -3382,6 +1726,163 @@
           "ClassPreparingDeltaTime": 60,
           "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
           "ClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "上课",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        },
+        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+          "IsAttachSettingsEnabled": true,
+          "ShowExtraInfoOnTimePoint": true,
+          "ExtraInfoType": 2,
+          "IsCountdownEnabled": true,
+          "CountdownSeconds": 3600,
+          "ExtraInfo4ShowSecondsSeconds": 3600,
+          "ScheduleSpacing": 1,
+          "ShowCurrentLessonOnlyOnClass": false,
+          "IsNonExactCountdownEnabled": false,
+          "IsActive": false
+        }
+      },
+      "IsActive": false
+    },
+    "d0ec6233-4ae0-46d0-954c-8be7aee51790": {
+      "TimeLayoutId": "beab55cf-5afb-4de7-a2b4-856f76cd4e3a",
+      "TimeRule": {
+        "WeekDay": 1,
+        "WeekCountDiv": 1,
+        "WeekCountDivTotal": 3,
+        "IsActive": false
+      },
+      "Classes": [
+        {
+          "SubjectId": "903f2aee-a2c8-4161-a878-dd6ec21e61c8",
+          "IsChangedClass": false,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "d10805b2-c8cb-4fda-9912-7dac226234c2",
+          "IsChangedClass": false,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "e314d4f9-f2ab-40c6-a077-640cf7202993",
+          "IsChangedClass": false,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "c62e54a2-4ed3-40d3-aee0-96cdd69c47d7",
+          "IsChangedClass": false,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "9a3fde0d-4421-4379-989c-af1529005e0f",
+          "IsChangedClass": false,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "c62e54a2-4ed3-40d3-aee0-96cdd69c47d7",
+          "IsChangedClass": false,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "d10805b2-c8cb-4fda-9912-7dac226234c2",
+          "IsChangedClass": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "f3ebca85-e6fa-464b-8c35-07f75a5f4653",
+          "IsChangedClass": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "903f2aee-a2c8-4161-a878-dd6ec21e61c8",
+          "IsChangedClass": false,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "0aa4652c-4fec-4e82-9ca1-47a15a337842",
+          "IsChangedClass": false,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "0aa4652c-4fec-4e82-9ca1-47a15a337842",
+          "IsChangedClass": false,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "112aaa7b-ab3c-4fc8-8924-7fc89c64c886",
+          "IsChangedClass": false,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "c1ef3e4d-08fb-45be-9082-8ffa84aae366",
+          "IsChangedClass": false,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        }
+      ],
+      "Name": "周一（临时层）",
+      "IsOverlay": true,
+      "OverlaySourceId": "8573441b-4975-4294-8506-d925d4ea2b52",
+      "OverlaySetupTime": "2025-04-27T00:00:00+08:00",
+      "IsEnabled": true,
+      "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+      "AttachedObjects": {
+        "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+          "IsEnabled": true,
+          "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+          "IsAttachSettingsEnabled": false,
+          "IsActive": false
+        },
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": false,
+          "IsClassOnPreparingNotificationEnabled": false,
+          "IsClassOffNotificationEnabled": false,
+          "ClassPreparingDeltaTime": 60,
+          "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "即将上课",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
           "ClassOffMaskText": "课间休息",
           "ClassOffOverlayText": "",
@@ -4087,9 +2588,9 @@
     }
   },
   "IsOverlayClassPlanEnabled": true,
-  "OverlayClassPlanId": "27dec410-2e15-4de2-a9bd-d57713d828b8",
-  "TempClassPlanId": null,
-  "TempClassPlanSetupTime": "2025-04-16T10:06:35.4976148+08:00",
+  "OverlayClassPlanId": "d0ec6233-4ae0-46d0-954c-8be7aee51790",
+  "TempClassPlanId": "8573441b-4975-4294-8506-d925d4ea2b52",
+  "TempClassPlanSetupTime": "2025-04-27T06:50:42.0090506+08:00",
   "ClassPlanGroups": {
     "acaf4ef0-e261-4262-b941-34ea93cb4369": {
       "Name": "默认",
@@ -4109,8 +2610,8 @@
   "TempClassPlanGroupType": 1,
   "Id": "70055d9b-d0ac-4515-814d-62e4f2bbb2ee",
   "OrderedSchedules": {
-    "2025-04-18T00:00:00+08:00": {
-      "ClassPlanId": "27dec410-2e15-4de2-a9bd-d57713d828b8",
+    "2025-04-27T00:00:00+08:00": {
+      "ClassPlanId": "d0ec6233-4ae0-46d0-954c-8be7aee51790",
       "IsActive": false
     }
   },
