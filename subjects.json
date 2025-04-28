@@ -247,6 +247,14 @@
         "TeacherName": "",
         "IsOutDoor": false,
         "AttachedObjects": {
+          "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+            "IsAttachSettingsEnabled": false,
+            "ShowExtraInfoOnTimePoint": true,
+            "ExtraInfoType": 0,
+            "IsCountdownEnabled": true,
+            "CountdownSeconds": 60,
+            "IsActive": false
+          },
           "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
             "IsClassOnNotificationEnabled": true,
             "IsClassOnPreparingNotificationEnabled": true,
@@ -254,14 +262,6 @@
             "ClassPreparingDeltaTime": 60,
             "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
             "IsAttachSettingsEnabled": false,
-            "IsActive": false
-          },
-          "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-            "IsAttachSettingsEnabled": false,
-            "ShowExtraInfoOnTimePoint": true,
-            "ExtraInfoType": 0,
-            "IsCountdownEnabled": true,
-            "CountdownSeconds": 60,
             "IsActive": false
           }
         },
