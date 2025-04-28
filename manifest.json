@@ -11,6 +11,6 @@
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/zxw5835345/classisland-mgmt-cfg/master/subjects.json",
-        "Version": 3
+        "Version": 4
     }
 }
