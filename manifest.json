@@ -3,14 +3,14 @@
     "OrganizationName": "鞍钢高中",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/zxw5835345/classisland-mgmt-cfg/master/classplans.json",
-        "Version": 5
+        "Version": 1
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/zxw5835345/classisland-mgmt-cfg/master/timelayouts.json",
-        "Version": 5
+        "Version": 1
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/zxw5835345/classisland-mgmt-cfg/master/subjects.json",
-        "Version": 5
+        "Version": 1
     }
 }
